@@ -1,5 +1,9 @@
+# Custom
+tester
+
 # Prerequisites
 *.d
+.idea
 
 # Object files
 *.o
