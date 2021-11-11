@@ -33,7 +33,7 @@ CP		= cp
 AR		= ar rc
 RN		= ranlib
 
-CFLAGS	= -Wall -Werror -Wextra -I$(INCL) -L$(LIBFT) -lft
+CFLAGS	= -Wall -Werror -Wextra -I$(INCL)
 
 # FORMAT
 
